@@ -1,0 +1,15 @@
+H:\Learning\DotNet\feb26\bin\Debug\net7.0\feb26.exe
+H:\Learning\DotNet\feb26\bin\Debug\net7.0\feb26.deps.json
+H:\Learning\DotNet\feb26\bin\Debug\net7.0\feb26.runtimeconfig.json
+H:\Learning\DotNet\feb26\bin\Debug\net7.0\feb26.dll
+H:\Learning\DotNet\feb26\bin\Debug\net7.0\feb26.pdb
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\feb26.csproj.AssemblyReference.cache
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\feb26.GeneratedMSBuildEditorConfig.editorconfig
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\feb26.AssemblyInfoInputs.cache
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\feb26.AssemblyInfo.cs
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\feb26.csproj.CoreCompileInputs.cache
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\feb26.dll
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\refint\feb26.dll
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\feb26.pdb
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\feb26.genruntimeconfig.cache
+H:\Learning\DotNet\feb26\obj\Debug\net7.0\ref\feb26.dll
